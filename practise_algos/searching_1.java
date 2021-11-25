@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class searching_1 {
     public static void main(String[] args){
         Scanner i= new Scanner(System.in);
         int j=0;
