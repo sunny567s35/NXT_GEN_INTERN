@@ -26,8 +26,6 @@ public class searching_1 {
             else{count++;}
             
         }if(count==size-1 && flag == false){System.out.println("Element not found in the array !");}
-            
-       
-    }
-    
+                    
+    }    
 }
